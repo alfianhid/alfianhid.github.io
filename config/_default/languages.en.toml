@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "@alfianhid's Personal Blog"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "January 2, 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+  
+[author]
+  name = "Alfian Hidayatulloh"
+  image = "assets/img/author.jpeg"
+  headline = "Hi, I am Alfian, a data engineer @ Perqara"
+  bio = "I am a longlife learner, so I love to learn new things!"
+  links = [
+    { email = "mailto:alfianhid@gmail.com" },
+    { instagram = "https://www.instagram.com/alfianhid" },
+    { linkedin = "https://www.linkedin.com/in/alfianhid" }
+ ]

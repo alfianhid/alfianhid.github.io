@@ -1,0 +1,12 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+
+baseURL = "https://alfianhid.github.io/"
+defaultContentLanguage = "en"
+theme = "congo"
+enableRobotsTXT = "true"
+paginate = 5
+summaryLength = 15
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
